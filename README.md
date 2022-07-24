@@ -6,7 +6,7 @@ Your objective for this lab exercise is to:
 
 Develop a State diagram for an 8-bit Manchester encoder.
 Implement an 8-bit Manchester encoder with output buffer and lookahead logic.
-spring 2022-Lab 7-Manchester Encoding.pdf Download spring 2022-Lab 7-Manchester Encoding.pdf
+spring 2022-Lab 7-Manchester Encoding.pdf
 
 Deliverables:
 
